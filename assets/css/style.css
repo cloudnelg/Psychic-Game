@@ -1,0 +1,23 @@
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+    color:rgba(38, 144, 243, 0.747);
+}
+
+body {
+    font-size: 25px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+#yellow {
+    color:yellow;
+}
+
+.red {
+    color:red;
+}
+
+.green {
+    color:rgb(53, 182, 53)
+}
